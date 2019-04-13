@@ -1,6 +1,6 @@
 # 
 
-<a target="_blank" href=""><img src="" alt="" /></a>
+<a target="_blank" href="https://www.djangobat.com/blog/tong-hop-cac-tips-dung-model-trong-django-part-1/"><img src="https://www.djangobat.com/media/posts/2019/04/13/model_OYTFQfB.jpg" alt="" /></a>
 
 
 ## BLOG djangobat
@@ -12,13 +12,13 @@
 Đầu tiên, tải repository về máy tính:
 
 ```bash
-$ git clone 
+$ git clone https://github.com/batTrung/model_tips.git
 ```
 
 Cài đặt requirements:
 
 ```bash
-$ cd answerly
+$ cd model_tips
 $ pip install -r requirements.txt
 ```
 
